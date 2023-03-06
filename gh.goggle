@@ -1,0 +1,9 @@
+! name: Github Goggle
+! description: Ranking Github repositories and issues higher in search
+! public: true
+! author: Sebastian Rivera
+
+https://github.com/*/issues/*
+https://github.com/*
+https://github.com/orgs/community/discussions/*
+
